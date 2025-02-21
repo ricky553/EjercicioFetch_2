@@ -1,0 +1,12 @@
+.card {
+    width: 500px;
+    margin: auto;
+}
+.card img {
+    height: 100px;
+    object-fit: cover;
+}
+
+h2 {
+    text-align: center;
+}
